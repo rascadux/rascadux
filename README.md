@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Por el github tengo cosas de la uni y algun proyecto enano que al igual hago, nada mas 🧩🚼
+Por el github tengo cosas de la uni y algun proyecto enano que al igual hago, nada mas ❌
 
 
 
