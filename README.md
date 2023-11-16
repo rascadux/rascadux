@@ -1,18 +1,5 @@
 ### Hola 👋
 
-Por el github tengo cosas de la uni y algun proyecto enano que al igual hago, nada mas ❌
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!--
 **rascadux/rascadux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
